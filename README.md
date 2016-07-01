@@ -4,4 +4,4 @@
 3. `cd content-filtering`
 4. `npm install`
 5. `node server.js`
-6. Open <a href="localhost:3000">localhost:3000</a>
+6. Open `localhost:3000`
